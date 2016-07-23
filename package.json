@@ -1,0 +1,16 @@
+{
+  "name": "MMM-HelloWorld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cronofy": "^1.1.7",
+    "lodash": "^4.13.1",
+    "moment": "^2.14.1"
+  }
+}
